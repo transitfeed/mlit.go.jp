@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,jp_parent_route_id
+25000-1,5020001072478,川56,矢向末吉橋循環,,3,,e4007f,ffffff,25000
+21000-0,5020001072478,川57,末吉橋矢向循環,,3,,e4007f,ffffff,21000
